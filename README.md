@@ -1,49 +1,29 @@
-# UiPath Batch
-## Timings
-* 10 weeks
-* Timings: 10am to 6pm EST
-* Lunch Break - 1:00 pm EST
+# RosaP1
+# Project Description 
+  RoSA is your robotic shopping assistant. Rosa is here to help your custumers to automate their shopping. RoSA helps you shop for all your customers from online        
+  vendors. It provides customers individual expense reports sent via email.
+# Technologies Used 
+  - Azure Data Studio - Version 1.37.0
+  - Uipath Studio  - Version 2022.4.1
+  - Excel - Version 2205
+  - Microsoft Edge - Version 96
+# Features
+  - Getting customer's shopping lists and shop for them in the pega platform.
+  - Getting Pega's inventory by extracting all the data
+  - Use customer's information on file (i.e the db) to make the sale
+  - Recording the expenses in a receipt and email that to the client
+  - RoSA was able to sent a profit report to Me
+  - Profit report contained comissions from selling for pega, 20% of the subtotal per shopping trip and was in excel format
 
-
-## Projects (graded)
-* P0 (individual) - 1 week
-* P1 (individual) - 2 weeks
-* P2 (team) - 2 weeks
-* P3 (final project team) in house project, COE team will assign the project, Showcase - 3 weeks
-
-## Assessments 
-* Written evaluation (quiz) -> [revpro](https://app.revature.com/login) (use revature.net email to access)
-* 1 on 1s with your trainer -> 10 mins interview with trainer on past week materials
-* QC (Quality Audit) -> 1-2 hours with QC and auditor
-	- PS Most of the assessments happens of Mon
-* Panel -> Mock interview, usually starts during week 8 of the training, scheduled for 1-2 hours.
-	Comprehensive interview for client interviews. You cannot attempt client interview until you pass
-	panels, its best to pass it in first round.
-
-## [Discord](https://discord.com/channels/968197119406112798/968197119406112801)
-* to join click [here](https://discord.gg/k2gs8E6W)
-* for instant messaging 
-* We aim to keep a productive and nurturing environment here, so avoid any kind on unprofessional behavior
-
-### Tools:
-* [Git](https://github.com)
-  * We will use this tool for version control, class examples, and submission of your assignments if any.
-* [git for windows + git bash](https://git-scm.com/downloads) 
-     * installs linux-like bash environment (terminal).
-     * also installs git, for version control.
-* [Visual Studio Code](https://code.visualstudio.com/download)
-  * Code Editor.
-* [.Net Core SDK](https://dotnet.microsoft.com/download)
-  * Core foundation for .Net development.
-
-### Useful Links for projects
-* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
-* [Git Basics](https://youtu.be/0fKg7e37bQE)
-* [Git Team Basics](https://youtu.be/oFYyTZwMyAg)
-* [learn about md files](https://guides.github.com/features/mastering-markdown/)
-  * It's always good to read and manage markdowns. You can also make a pull request to training-code repo to contribute notes
-  * Also [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
-
-### References for learning
-* [Unix and Shell](https://www.tutorialspoint.com/unix/unix-getting-started.htm)
-* [UiPath Academy RPA Developer](https://academy.uipath.com/learning-plans/rpa-developer-foundation)
+  To-Do List
+  - Improve on the version by adding multiple Vendors
+# Getting Started
+  Git Clone https://github.com/frankhume/RosaP1.git
+  - Ensure that you have Mircosoft Edge installed.
+  - UiPath Studio needs to be installed.
+  - Azure studio needs to be downloaded to access the customer datatables.
+  - Ensure all excel files are downloaded with the program.
+# Usage
+  You start running the program by debugging will enable ROSA to begin the shopping process for customers on the PEGA shopping platform after downloading the project and   relevant fils uploaded. The Workflow process title is Rosa.
+# License
+  This project uses the following license: MIT License link https://github.com/frankhume/RosaP1/blob/main/LICENSE
