@@ -18,7 +18,7 @@
   To-Do List
   - Improve on the version by adding multiple Vendors
 # Getting Started
-  Git Clone https://github.com/frankhume/RosaP1.git
+  Git Clone https://github.com/frankhume/Project1
   - Ensure that you have Mircosoft Edge installed.
   - UiPath Studio needs to be installed.
   - Azure studio needs to be downloaded to access the customer datatables.
